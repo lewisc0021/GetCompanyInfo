@@ -1,0 +1,9 @@
+c:\users\lewis\documents\visual studio 2015\Projects\GetGraphTest\GetGraphTest\bin\Debug\GetGraphTest.exe.config
+c:\users\lewis\documents\visual studio 2015\Projects\GetGraphTest\GetGraphTest\bin\Debug\GetGraphTest.exe
+c:\users\lewis\documents\visual studio 2015\Projects\GetGraphTest\GetGraphTest\bin\Debug\GetGraphTest.pdb
+c:\users\lewis\documents\visual studio 2015\Projects\GetGraphTest\GetGraphTest\obj\Debug\GetGraphTest.csprojResolveAssemblyReference.cache
+c:\users\lewis\documents\visual studio 2015\Projects\GetGraphTest\GetGraphTest\obj\Debug\GetGraphTest.exe
+c:\users\lewis\documents\visual studio 2015\Projects\GetGraphTest\GetGraphTest\obj\Debug\GetGraphTest.pdb
+C:\Users\lewis\documents\visual studio 2015\Projects\GetGraphTest\GetGraphTest\bin\Debug\HtmlAgilityPack.dll
+C:\Users\lewis\documents\visual studio 2015\Projects\GetGraphTest\GetGraphTest\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\lewis\documents\visual studio 2015\Projects\GetGraphTest\GetGraphTest\bin\Debug\HtmlAgilityPack.xml
